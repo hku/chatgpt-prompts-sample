@@ -1,0 +1,10 @@
+{
+    "name": "prompts sample",
+    "description": "This is a sample of prompt templates",
+    "prompts": [
+        {"text": "translate the following text delimited by <text> tag into {{lang}}. \n <text>{{text}}</text>"},
+        {"text": "translate the following text delimited by <text> tag into {{lang}}. \n <text>{{text}}</text>"},
+        {"text": "translate the following text delimited by <text> tag into {{lang}}. \n <text>{{text}}</text>"},
+        {"text": "translate the following text delimited by <text> tag into {{lang}}. \n <text>{{text}}</text>"}
+    ]
+}
